@@ -17,8 +17,8 @@ try:
     # simplify the default install experience, particularly where a build
     # toolchain is required.
     extras_requires = {
-        "all": ['matplotlib==3.1.1', 'numpy==1.16.4', 'pymongo==3.8.0', 'psutil==5.6.3'],
-        "mlaunch": ['pymongo==3.8.0', 'psutil==5.6.3'],
+        "all": ['matplotlib==3.1.1', 'numpy==1.16.4', 'pymongo==3.8.0', 'psutil==5.6.6'],
+        "mlaunch": ['pymongo==3.8.0', 'psutil==5.6.6'],
         "mlogfilter": [],
         "mloginfo": ['numpy==1.16.4'],
         "mlogvis": [],
